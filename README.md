@@ -1,7 +1,7 @@
 # sony-playstation-responsive
 Here is a replica of the PlayStation website, made using the first principles of web development(HTML, CSS and JavaScript).
 
-It was pretty challenging for me, I had some annoying difficults on the meanwhile, but now I will not make the same mistakes again.
+It was quite challenging for me, I had some annoying difficulties in the meantime, but now I won't make the same mistakes again.
 
 It is a responsive, mobile-friendly website that works with some unique features for large and small devices.
 
