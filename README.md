@@ -1,7 +1,11 @@
-# sony-playstation-responsive
-![Screenshot_2](https://user-images.githubusercontent.com/97318219/149517826-8bee79a3-6d76-46b0-ac80-e44d3615d84c.png)
+# PlayStation Responsive Website
+![alt text](https://user-images.githubusercontent.com/97318219/149517826-8bee79a3-6d76-46b0-ac80-e44d3615d84c.png)
 
-Here is a replica of the PlayStation website, made using the first principles of web development(HTML, CSS and JavaScript).
+Here is a replica of the PlayStation website, made using the first principles of web development, which are:
+
+- HTML
+- CSS 
+- JavaScript
 
 It was quite challenging for me, I had some annoying difficulties in the meantime, but now I won't make the same mistakes again.
 
