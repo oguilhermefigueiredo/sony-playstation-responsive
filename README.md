@@ -50,10 +50,17 @@ ______________________________
 
 ![Screenshot_8](https://user-images.githubusercontent.com/97318219/149520906-05fba53c-3d78-491f-8d4f-663e88bf0468.png)
 
-1. During the process of planning and coding this website, I used **Git** to track all my changes and attempts, to ensure that I did not commit an irreparable mistake.
- 
+____________________________
+
 ![Screenshot_1](https://user-images.githubusercontent.com/97318219/149643026-ed87cb4c-c88e-4e15-a234-82c717a93bd8.png)
+
+1. During the process of planning and coding this website, I used **Git** to track all my changes and attempts, to ensure that I did not commit an irreparable mistake.
+
+![download](https://user-images.githubusercontent.com/97318219/149644093-35f02a8e-20ea-4f9c-a4a0-421f73f0a5fb.png)
 
 2. My developing environment was **Linux** and my text editor was Visual Studio Code. 
 
-3. To be more precise, I am using a **virtualization** platform from a windows host to get access to a guest linux. The application is called *VirtualBox*.
+[Screenshot_2](https://user-images.githubusercontent.com/97318219/149644101-c6631e2d-e828-46e7-9c1a-145b5a03f6d8.png)
+
+3. To be more precise, I am using a **virtualization** platform from a windows host to get access to a guest linux. The application is called *VirtualBox*.!
+
