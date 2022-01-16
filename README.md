@@ -2,7 +2,7 @@
 
 ![alt text](https://user-images.githubusercontent.com/97318219/149517826-8bee79a3-6d76-46b0-ac80-e44d3615d84c.png)
 
- #### 🎮| Here is a *replica* of the PlayStation website, made using the first principles of web development, which are:
+ #### 🎮 | Here is a *replica* of the PlayStation website, made using the first principles of web development, which are:
  
 > - HTML
 > - CSS
