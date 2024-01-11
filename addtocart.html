@@ -20,9 +20,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <body>
       <h1>Welcome to your cart!</h1>
       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uline.com%2FProduct%2FDetail%2FH-4568%2FShopping-Baskets-and-Carts%2FLarge-Wire-Shopping-Cart&psig=AOvVaw1RSgt5mSg3x3mA6qam3Me7&ust=1705089668624000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDW4JOQ1oMDFQAAAAAdAAAAABAD"></a>
-    <video width="720" height="1280" controls>
-  <source src="movie.mp4" type="video/mp4">
-</video>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FdAFKpa4xfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h2>Formulário de Contato</h2>
+
+<form id="meuFormulario">
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome" required>
+
+    <br>
+
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required>
+
+    <br>
+
+    <input type="submit" value="Enviar">
+</form>
+
+<script>
+    // Simulação de envio do formulário
+    document.getElementById('meuFormulario').addEventListener('submit', function (event) {
+        event.preventDefault();
+        alert('Formulário enviado! (Este é apenas um exemplo. Não está enviando dados real)');
+        // Aqui você pode adicionar a lógica para enviar dados ao seu servidor ou realizar outras ações.
+    });
+</script>
+
     </body>
 </html>
